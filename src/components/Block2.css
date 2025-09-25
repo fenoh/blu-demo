@@ -1,0 +1,52 @@
+.block-2 {
+    height: 100vh;
+    background-color: white;
+    padding-left: 180px;
+    margin-top: 0;
+}
+
+.block-2 h2 {
+    color: #121212;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 130%;
+}
+.block-2 h2 .main {
+    font-weight: normal;
+}
+
+.block-2 .description, .block-2 .inclusions {
+    color: #020202;
+    line-height: 120%;
+    text-align: left;
+}
+
+.block-2 .description {
+    width: 660px;
+}
+
+.block-2 .inclusions p {
+    font-size: 24px;
+}
+
+.block-2 .inclusions ul {
+    width: 660px;
+}
+
+.block-2 .inclusions ul li {
+    margin-bottom: 10px;
+}
+
+.image{
+    width: 200px;
+    height: 400px;
+}
+.image2{
+    width: 400px;
+    height: 500px;
+}
+
+ul li::marker{
+    color: #4097FF;
+    font-size: 2rem; 
+}

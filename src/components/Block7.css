@@ -1,0 +1,8 @@
+.block7{
+    background: linear-gradient(90deg, #4097FF 0%, rgba(115, 115, 115, 0) 100%), url('piscine7.png');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;       
+
+}
